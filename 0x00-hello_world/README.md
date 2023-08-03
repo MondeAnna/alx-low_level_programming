@@ -45,5 +45,6 @@ The ability to explain, without external resources:
 
 * _[`Preprossessing`](0-preprocessor)_
 * _[`Compilation`](1-compiler)_
+* _[`GCC Assembler`](2-assembler)_
 
 <br />
