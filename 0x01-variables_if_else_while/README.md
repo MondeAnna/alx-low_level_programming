@@ -55,5 +55,6 @@ The ability to explain, without external resources:
 * _[Discern integral range](1-last_digit.c)_
 * _[Show Alphabet](2-print_alphabet.c)_
 * _[Show Varied Alphabet Casing](3-print_alphabets.c)_
+* _[Show Trimmed Alphabet](4-print_alphabt.c)_
 
 <br />
