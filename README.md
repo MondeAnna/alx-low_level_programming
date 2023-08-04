@@ -38,5 +38,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 #### Low Level Programming Concepts
 
 * _[C Language Compilation Process](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)_
+* _[Data Types](https://www.geeksforgeeks.org/data-types-in-c/)_ and _[`Control Flow`](https://www.geeksforgeeks.org/decision-making-c-cpp/)_
 
 <br />
