@@ -43,3 +43,5 @@ The ability to explain, without external resources:
 * _[`Show Lowercased Alphabet 10 Times`](2-print_alphabet_x10.c)_
 * _[`Bool -> Determine if char is lowercased`](3-islower.c)_
 * _[`Bool -> Determine if char is an alphabet`](4-isalpha.c)_
+* _[`Bool -> Determine if Negative, Zero or Positive`](5-sign.c)_
+
