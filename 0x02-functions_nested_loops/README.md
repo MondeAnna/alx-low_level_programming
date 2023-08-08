@@ -51,3 +51,4 @@ The ability to explain, without external resources:
 * _[`Algebra - Add Two Integers`](10-add.c)_
 * _[`Show Integers from n to 98`](11-print_to_98.c)_
 * _[`Show nxn Multiplication Table`](100-times_table.c)_
+* _[`Algebra -> Sum Multiples of 3 and 5`](101-natural.c)
