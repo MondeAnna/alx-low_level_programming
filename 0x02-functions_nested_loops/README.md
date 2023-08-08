@@ -38,7 +38,6 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
-<<<<<<< HEAD
 * _[`Single Character Printout`](0-putchar.c)_
 * _[`Show Lowercased Alphabet`](1-alphabet.c)_
 * _[`Show Lowercased Alphabet 10 Times`](2-print_alphabet_x10.c)_
@@ -55,4 +54,4 @@ The ability to explain, without external resources:
 * _[`Algebra -> Sum Multiples of 3 and 5`](101-natural.c)
 * _[`Algebra -> Fibonacci`](102-fibonacci.c)_
 * _[`Algebra -> Sum Even Fibonacci Numbers`](103-fibonacci.c)_
-
+* _[`Algebra -> First 98 Fibonacci Numbers`](104-fibonacci.c)_
