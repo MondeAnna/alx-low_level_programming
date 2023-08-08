@@ -38,5 +38,6 @@ The ability to explain, without external resources:
 #### Low Level Programming Projects
 
 * _[`Change Test Output`](0-main.c)_
+* _[`Prevent Infinite Loop`](1-main.c)_
 
 <br />
