@@ -38,4 +38,4 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
-<br />
+* _[`Single Character Printout`](0-putchar.c)_
