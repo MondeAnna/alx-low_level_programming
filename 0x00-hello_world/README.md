@@ -10,4 +10,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
-_Yet to be added_
+| Filename | Description |
+| -------- | ----------- |
+| [`0-preprocessor`](0-preprocessor) | Preprocess Code |
