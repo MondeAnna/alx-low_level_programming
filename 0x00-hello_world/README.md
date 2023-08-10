@@ -50,5 +50,6 @@ The ability to explain, without external resources:
 * _[`CLI Printout`](4-puts.c)_
 * _[`CLI Printout: Secondary`](5-printf.c)_
 * _[`CLI Printout: Tertiary`](6-size.c)_
+* _[`GCC Assembler: Secondary`](100-intel)_
 
 <br />
