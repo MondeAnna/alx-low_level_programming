@@ -38,4 +38,6 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[`Bool -> Discern if char is Uppercased`](0-isupper.c)_
+
 <br />
