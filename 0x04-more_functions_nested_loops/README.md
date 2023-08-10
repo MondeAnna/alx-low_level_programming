@@ -46,5 +46,6 @@ The ability to explain, without external resources:
 * _[`Show 10 Rows of Digits Ranging 0 to 14`](5-more_numbers.c)_
 * _[`Geometry -> Show Underscore Line`](6-print_line.c)_
 * _[`Geometry -> Show Diagonal Line`](7-print_diagonal.c)_
+* _[`Geometry -> Show Square`](8-print_square.c)_
 
 <br />
