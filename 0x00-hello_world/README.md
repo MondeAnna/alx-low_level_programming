@@ -17,3 +17,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`2-assembler`](2-assembler) | Assemble Code |
 | [`3-name`](3-name) | Create an executable |
 | [`4-puts`](4-puts) | CLI String Printout -> puts |
+| [`5-printf`](5-printf) | CLI String Printout -> printf |
