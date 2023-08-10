@@ -50,5 +50,6 @@ The ability to explain, without external resources:
 * _[`Variation of FizzBuzz Exercise`](9-fizz_buzz.c)_
 * _[`Geometry -> Show Right-Angled Triangle`](10-print_triangle.c)_
 * _[`Algebra -> Discern Largest Prime Factor`](100-prime_factor.c)_
+* _[`Show an int as char`](101-print_number.c)_
 
 <br />
