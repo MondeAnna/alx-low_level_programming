@@ -18,3 +18,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`3-name`](3-name) | Create an executable |
 | [`4-puts`](4-puts) | CLI String Printout -> puts |
 | [`5-printf`](5-printf) | CLI String Printout -> printf |
+| [`6-size`](6-size) | CLI String Printout -> sizeof |
