@@ -13,3 +13,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | Filename | Description |
 | -------- | ----------- |
 | [`0-preprocessor`](0-preprocessor) | Preprocess Code |
+| [`1-compiler`](1-compiler) | Compile Code |
