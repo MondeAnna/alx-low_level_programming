@@ -17,3 +17,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`2-print_alphabet`](2-print_alphabet) | Show Alphabet -> Lowercased |
 | [`3-print_alphabets`](3-print_alphabets) | Show Alphabet -> Lowercased then Uppercased |
 | [`4-print_alphabt`](4-print_alphabt) | Show Alphabet -> Lowercased & Chars Removed |
+| [`5-print_numbers`](5-print_numbers) | Show Numbers -> Base 10 Digits |
