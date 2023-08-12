@@ -22,3 +22,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`7-print_tebahpla`](7-print_tebahpla) | Show Alphabet -> Lowercased & Reversed |
 | [`8-print_base16`](8-print_base16) | Show Numbers -> Base 16 Digits |
 | [`9-print_comb`](9-print_comb) | Show Digits -> Formated |
+| [`100-print_comb3`](100-print_comb3) | Show Digits -> 2 Digit Combos |
