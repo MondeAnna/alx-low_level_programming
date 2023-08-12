@@ -24,3 +24,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`9-print_comb`](9-print_comb) | Show Digits -> Formated |
 | [`100-print_comb3`](100-print_comb3) | Show Digits -> 2 Digit Combos |
 | [`101-print_comb4`](101-print_comb4) | Show Digits -> 3 Digit Combos |
+| [`102-print_comb5`](102-print_comb5) | Show Digits -> Two 2 Digit Combos |
