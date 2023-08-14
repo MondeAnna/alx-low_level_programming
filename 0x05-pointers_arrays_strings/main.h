@@ -1,9 +1,13 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+#include <stdio.h>
+
 int _putchar(char c);
 void _puts(char *str);
+char *_strcpy(char *dest, char *src);
 int _strlen(char *s);
+void print_array(int *a, int n);
 void print_rev(char *s);
 void puts2(char *str);
 void puts_half(char *str);
