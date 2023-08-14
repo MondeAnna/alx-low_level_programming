@@ -43,5 +43,6 @@ The ability to explain, without external resources:
 * _[`Show String`](3-puts.c)_
 * _[`Show Reversed String`](4-print_rev.c)_
 * _[`Reverse a String`](5-rev_string.c)_
+* _[`Show Oddly Indexed chars in str`](6-puts2.c)_
 
 <br />
