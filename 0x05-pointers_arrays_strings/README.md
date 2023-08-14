@@ -48,5 +48,6 @@ The ability to explain, without external resources:
 * _[`Show n Elements in Array`](8-print_array.c)_
 * _[`Copy String to New Memory Block`](9-strcpy.c)_
 * _[`Get int from String`](100-atoi.c)_
+* _[`Generate Random Password`](101-keygen.c)_
 
 <br />
