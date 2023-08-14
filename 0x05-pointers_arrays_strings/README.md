@@ -40,5 +40,6 @@ The ability to explain, without external resources:
 * _[`Reset int to 98`](0-reset_to_98.c)_
 * _[`Swap two int values`](1-swap.c)_
 * _[`Get the Length of a String`](2-strlen.c)_
+* _[`Show String`](3-puts.c)_
 
 <br />
