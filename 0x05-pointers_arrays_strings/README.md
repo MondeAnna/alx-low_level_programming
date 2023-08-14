@@ -38,5 +38,6 @@ The ability to explain, without external resources:
 #### Low Level Programming Projects
 
 * _[`Reset int to 98`](0-reset_to_98.c)_
+* _[`Swap two int values`](1-swap.c)_
 
 <br />
