@@ -10,4 +10,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
-_Yet to be added_
+| Project name | Description |
+| ------------ | ----------- |
+[ [`0-putchar`](0-putchar.c) | Use of provided code script |
