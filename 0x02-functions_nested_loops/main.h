@@ -11,6 +11,7 @@ void print_alphabet(void);
 void print_alphabet_x10(void);
 int print_last_digit(int);
 int print_sign(int);
+void print_to_98(int);
 void times_table(void);
 
 #endif /* _MAIN_H */
