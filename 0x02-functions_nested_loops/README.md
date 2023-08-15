@@ -13,3 +13,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | Project name | Description |
 | ------------ | ----------- |
 [ [`0-putchar`](0-putchar.c) | Use of provided code script |
+| [`1-alphabet`](1-alphabet) | Show Lowercased Alphabet |
