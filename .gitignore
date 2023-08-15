@@ -1,2 +1,9 @@
+# nano's temp files
 *.swp
+
+# linked c file
 a.out
+
+# from 0x02: C - Functions, nested loops
+_putchar*
+main.c

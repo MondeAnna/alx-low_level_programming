@@ -14,3 +14,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | ------------ | ----------- |
 [ [`0x00-hello_world`](0x00-hello_world) | C Language Compilation Process |
 [ [`0x01-variables_if_else_while`](0x01-variables_if_else_while) | Data Type and Control Flow |
+| [`0x02-functions_nested_loops`](0x02-functions_nested_loops) | Functions |
