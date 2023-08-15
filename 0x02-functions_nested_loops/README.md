@@ -22,3 +22,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`7-print_last_digit`](7-print_last_digit) | Show Last Digit of Number |
 | [`8-24_hours`](8-24_hours) | Show 24 Hour Military-Styled Clock |
 | [`9-times_table`](9-times_table) | Show 9x9 Multiplication Table |
+| [`10-add`](10-add) | Algebra - Add Two Integers |
