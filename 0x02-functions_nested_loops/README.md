@@ -27,3 +27,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`100-times_table`](100-times_table) | Show `nxn` Multiplication Table |
 | [`101-natural`](101-natural) | Algebra -> Sum Multiples of 3 and 5 |
 | [`102-fibonacci`](102-fibonacci) | Algebra -> Fibonacci |
+| [`103-fibonacci`](103-fibonacci) | Algebra -> Sum Even Fibonacci Numbers |
