@@ -16,3 +16,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`1-alphabet`](1-alphabet) | Show Lowercased Alphabet |
 | [`2-print_alphabet_x10`](2-print_alphabet_x10) | Show Lowercased Alphabet 10 Times |
 | [`3-islower`](3-islower) | Bool -> Determine if `char` is lowercased |
+| [`4-isalpha`](4-isalpha) | Bool -> Determine if `char` is an alphabet |
