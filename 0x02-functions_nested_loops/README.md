@@ -15,3 +15,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [ [`0-putchar`](0-putchar.c) | Use of provided code script |
 | [`1-alphabet`](1-alphabet) | Show Lowercased Alphabet |
 | [`2-print_alphabet_x10`](2-print_alphabet_x10) | Show Lowercased Alphabet 10 Times |
+| [`3-islower`](3-islower) | Bool -> Determine if `char` is lowercased |
