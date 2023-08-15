@@ -28,3 +28,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`101-natural`](101-natural) | Algebra -> Sum Multiples of 3 and 5 |
 | [`102-fibonacci`](102-fibonacci) | Algebra -> Fibonacci |
 | [`103-fibonacci`](103-fibonacci) | Algebra -> Sum Even Fibonacci Numbers |
+| [`104-fibonacci`])104-fibonacci) | Algebra -> First 98 Fibonacci Numbers |
