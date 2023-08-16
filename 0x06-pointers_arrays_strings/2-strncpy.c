@@ -52,6 +52,9 @@ char *_strncpy(char *dest, char *src, int n)
 			break;
 	}
 
+	for (; iter < n; iter++)
+		dest[iter] = '\0';
+
 	return (dest);
 }
 
