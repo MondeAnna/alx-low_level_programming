@@ -49,5 +49,6 @@ The ability to explain, without external resources:
 * _[`Show an Integer`](101-print_number.c)_
 * _[`Change Value via Dereferencing`](102-magic.c)_
 * _[`Add ad nauseam`](103-infinite_add.c)_
+* _[`Show Values in Buffer`](104-print_buffer.c)_
 
 <br />

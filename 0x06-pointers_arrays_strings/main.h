@@ -2,12 +2,13 @@
 #define MAIN_H
 
 #include <assert.h>
+#include <stdio.h>
 
 int _islower(int c);
 int _islwr(const char *c);
 int _isseparator(const char c);
 int _isuppr(const char *c);
-void _map_esc_to_period(char *b, int size);
+void _map_esc_to_period(char *b, int index, int nchars);
 void _print_ascii_dec(char *b, int index, int nchars);
 void _print_ascii_hex(char *b, int index, int nchars);
 int _putchar(char c);
@@ -20,6 +21,7 @@ int _strlen(char *s);
 char *cap_string(char *str);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 char *leet(char *str);
+void print_buffer(char *b, int size);
 void print_number(int n);
 void reverse_array(int *a, int n);
 char *rot13(char *str);
