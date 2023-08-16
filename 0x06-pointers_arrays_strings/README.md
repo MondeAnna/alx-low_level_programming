@@ -48,5 +48,6 @@ The ability to explain, without external resources:
 * _[`Encode String Using rot13`](100-rot13.c)_
 * _[`Show an Integer`](101-print_number.c)_
 * _[`Change Value via Dereferencing`](102-magic.c)_
+* _[`Add ad nauseam`](103-infinite_add.c)_
 
 <br />

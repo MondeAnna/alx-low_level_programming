@@ -18,6 +18,7 @@ int _strcmp(char *s1, char *s2);
 char *_strncpy(char *dest, char *src, int n);
 int _strlen(char *s);
 char *cap_string(char *str);
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
 char *leet(char *str);
 void print_number(int n);
 void reverse_array(int *a, int n);
