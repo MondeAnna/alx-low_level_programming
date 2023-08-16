@@ -46,5 +46,6 @@ The ability to explain, without external resources:
 * _[`Capitalise All Words in a String`](6-cap_string.c)_
 * _[`Encode String Using 1337`](7-leet.c)_
 * _[`Encode String Using rot13`](100-rot13.c)_
+* _[`Show an Integer`](101-print_number.c)_
 
 <br />
