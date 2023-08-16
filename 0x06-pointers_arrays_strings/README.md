@@ -40,5 +40,6 @@ The ability to explain, without external resources:
 * _[`Append One String to Another`](0-strcat.c)_
 * _[`Append n chars to a String`](1-strncat.c)_
 * _[`Copy n chars from a String to Another`](2-strncpy.c)_
+* _[`Compare Two Strings`](3-strcmp.c)_
 
 <br />
