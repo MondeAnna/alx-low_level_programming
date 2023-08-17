@@ -16,3 +16,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`0-isupper1](0-isupper.c) | Bool -> Discern if `char` is Uppercased |
 | [`1-isdigit`](1-isdigit.c) | Bool -> Discern if `char` is Digit |
 | [`2-mul`](2-mul.c) | Algebra -> Multiply Two Operands |
+| [`3-print_numbers`](3-print_numbers.c) | Show Base 10 Digits |
