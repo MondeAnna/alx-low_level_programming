@@ -17,3 +17,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`1-isdigit`](1-isdigit.c) | Bool -> Discern if `char` is Digit |
 | [`2-mul`](2-mul.c) | Algebra -> Multiply Two Operands |
 | [`3-print_numbers`](3-print_numbers.c) | Show Base 10 Digits |
+| [`4-print_most_numbers`](4-print_most_numbers.c) | Show Base 10 Digits -> Exclusions Made |
