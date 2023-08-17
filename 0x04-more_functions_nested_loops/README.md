@@ -10,4 +10,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
-_Yet to be added_
+| Project name | Description |
+| ------------ | ----------- |
+| [`main`](main.h) | Project's Header File |
+| [`0-isupper1](0-isupper.c) | Bool -> Discern if `char` is Uppercased |
