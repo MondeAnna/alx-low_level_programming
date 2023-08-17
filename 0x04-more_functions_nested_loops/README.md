@@ -20,3 +20,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`4-print_most_numbers`](4-print_most_numbers.c) | Show Base 10 Digits -> Exclusions Made |
 | [`5-more_numbers`}(5-more_numbers.c) | Show 10 Rows of Digits Ranging `0` to `14` |
 | [`6-print_line`](6-print_line.c) | Geometry -> Show Underscore Line |
+| [`7-print_diagonal`](7-print_diagonal.c) | Geomentry -> Show Diagonal Line |
