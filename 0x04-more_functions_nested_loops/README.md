@@ -24,3 +24,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`8-print_square`](8-print_square.c) | Geometry -> Show Square |
 | [`9-fizz_buzz`](9-fizz_buzz.c) | Variation of `FizzBuzz` Exercise |
 | [`10-print_triangle`](10-print_triangle.c) | Geometry -> Show Right-Angled Triangle |
+| [`100-prime_factor`](100-prime_factor.c) | Algebra -> Discern Largest Prime Factor |
