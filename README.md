@@ -16,3 +16,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 [ [`0x01-variables_if_else_while`](0x01-variables_if_else_while) | Data Type and Control Flow |
 | [`0x02-functions_nested_loops`](0x02-functions_nested_loops) | Functions |
 | [`0x03-debugging`](0x03-debugging) | Debugging Concepts |
+| [`0x04-more_functions_nested_loops`](0x04-more_functions_nested_loops) | Functions 2 |
