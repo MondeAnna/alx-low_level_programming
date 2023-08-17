@@ -16,3 +16,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`0-main`](0-main.c) | Change Test Output |
 | [`1-main`](1-main.c) | Prevent Infinite Loop |
 | [`2-largest_number`](2-largest_number.c) | Discern Largest of Three Values |
+| [`3-print_remaining_days`](3-print_remaining_days.c) | Determine Days Left in a Year |
