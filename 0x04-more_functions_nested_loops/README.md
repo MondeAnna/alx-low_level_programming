@@ -23,3 +23,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`7-print_diagonal`](7-print_diagonal.c) | Geomentry -> Show Diagonal Line |
 | [`8-print_square`](8-print_square.c) | Geometry -> Show Square |
 | [`9-fizz_buzz`](9-fizz_buzz.c) | Variation of `FizzBuzz` Exercise |
+| [`10-print_triangle`](10-print_triangle.c) | Geometry -> Show Right-Angled Triangle |
