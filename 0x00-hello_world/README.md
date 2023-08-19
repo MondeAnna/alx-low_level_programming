@@ -12,7 +12,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 | Filename | Description |
 | -------- | ----------- |
-| [`0-preprocessor`](0-preprocessor) | Preprocess Code |
+| [`0-preprocessor`](0-preprocessor.c) | Preprocess Code |
 | [`1-compiler`](1-compiler) | Compile Code |
 | [`2-assembler`](2-assembler) | Assemble Code |
 | [`3-name`](3-name) | Create an executable |
