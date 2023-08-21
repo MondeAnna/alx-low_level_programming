@@ -18,3 +18,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`2-strlen`](2-strlen.c) | Get the Length of a String  |
 | [`3-puts`](3-puts.c) | Show String |
 | [`4-print_rev`](4-print_rev.c) | Show Reversed String |
+| [`5-rev_string`](5-rev_string.c) | Reverse a String |
