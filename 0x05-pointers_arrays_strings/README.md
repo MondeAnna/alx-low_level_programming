@@ -17,3 +17,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`1-swap`](1-swap.c) | Swap two `int` values |
 | [`2-strlen`](2-strlen.c) | Get the Length of a String  |
 | [`3-puts`](3-puts.c) | Show String |
+| [`4-print_rev`](4-print_rev.c) | Show Reversed String |
