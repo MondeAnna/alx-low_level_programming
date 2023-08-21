@@ -33,4 +33,6 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[`Fill Memory with Constant Byte`](0-memset.c)_
+
 <br />
