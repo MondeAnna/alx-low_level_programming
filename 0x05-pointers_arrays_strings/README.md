@@ -10,4 +10,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
-_Yet to be added_
+| Project name | Description |
+| ------------ | ----------- |
+| [`main`](main.h) | Project's Header File |
+| [`0-reset_to_98`](0-reset_to_98.c) | Reset `int` to `98` |
