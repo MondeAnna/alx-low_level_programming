@@ -21,3 +21,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`5-rev_string`](5-rev_string.c) | Reverse a String |
 | [`6-puts2`](6-puts2.c) | Show Oddly Indexed `chars` in `str` |
 | [`7-puts_half`](7-puts_half.c) | Show Second Half of String |
+| [`8-print_array`](8-print_array.c) | Show `n` Elements in Array |
