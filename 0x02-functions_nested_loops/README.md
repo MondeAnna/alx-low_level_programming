@@ -24,3 +24,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`9-times_table`](9-times_table) | Show 9x9 Multiplication Table |
 | [`10-add`](10-add) | Algebra - Add Two Integers |
 | [`11-print_to_98`](11-print_to_98) | Show Integers from `n` to `98` |
+| [`100-times_table`](100-times_table) | Show `nxn` Multiplication Table |
