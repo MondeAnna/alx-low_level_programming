@@ -16,3 +16,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`0-reset_to_98`](0-reset_to_98.c) | Reset `int` to `98` |
 | [`1-swap`](1-swap.c) | Swap two `int` values |
 | [`2-strlen`](2-strlen.c) | Get the Length of a String  |
+| [`3-puts`](3-puts.c) | Show String |
