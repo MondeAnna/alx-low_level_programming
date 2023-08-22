@@ -14,3 +14,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | ------------ | ----------- |
 | [`main`](main.h) | Project's Header File |
 | [`0-isupper1](0-isupper.c) | Bool -> Discern if `char` is Uppercased |
+| [`1-isdigit`](1-isdigit.c) | Bool -> Discern if `char` is Digit |
