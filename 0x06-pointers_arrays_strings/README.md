@@ -19,3 +19,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`3-strcmp`](3-strcmp.c) | Compare Two Strings |
 | [`4-rev_array`](4-rev_array.c) | Reverse Values in Array |
 | [`5-string_toupper`](5-string_toupper.c) | Uppercase String |
+| [`6-cap_string`](6-cap_string.c) | Capitalise All Words in a String |
