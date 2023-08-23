@@ -18,3 +18,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`2-strncpy`](2-strncpy.c) | Copy `n` `chars` from a String to Another |
 | [`3-strcmp`](3-strcmp.c) | Compare Two Strings |
 | [`4-rev_array`](4-rev_array.c) | Reverse Values in Array |
+| [`5-string_toupper`](5-string_toupper.c) | Uppercase String |
