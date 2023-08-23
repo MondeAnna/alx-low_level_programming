@@ -14,3 +14,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | ------------ | ----------- |
 | [`main`](main.h) | Project's Header File |
 | [`0-strcat`](0-strcat.c) | Append One String to Another |
+| [`1-strncat`](1-strncat.c) | Append `n` `chars` to a String |
