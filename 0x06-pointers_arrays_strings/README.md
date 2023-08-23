@@ -17,3 +17,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`1-strncat`](1-strncat.c) | Append `n` `chars` to a String |
 | [`2-strncpy`](2-strncpy.c) | Copy `n` `chars` from a String to Another |
 | [`3-strcmp`](3-strcmp.c) | Compare Two Strings |
+| [`4-rev_array`](4-rev_array.c) | Reverse Values in Array |
