@@ -23,3 +23,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`7-leet`](7-leet.c) | Encode String Using `1337` |
 | [`100-rot13`](100-rot13.c) | Encode String Using `rot13` |
 | [`101-print_number`](101-print_number.c) | Show an Integer |
+| [`102-magic`](102-magic.c) | Change Value via Dereferencing |
