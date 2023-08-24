@@ -21,3 +21,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`5-string_toupper`](5-string_toupper.c) | Uppercase String |
 | [`6-cap_string`](6-cap_string.c) | Capitalise All Words in a String |
 | [`7-leet`](7-leet.c) | Encode String Using `1337` |
+| [`100-rot13`](100-rot13.c) | Encode String Using `rot13` |
