@@ -34,4 +34,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
+* _[Project's Header File](main.h)_
+* _[Static Library Composed of My C-Language Projects](libmy.a)_
+
 <br />
