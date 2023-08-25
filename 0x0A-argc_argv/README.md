@@ -44,5 +44,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Show CLI Argument Values](2-args.c)_
 * _[Multiply CLI Arguments](3-mul.c)_
 * _[Add Multiple CLI Arguments](4-add.c)_
+* _[Calculate Change](100-change.c)_
 
 <br />
