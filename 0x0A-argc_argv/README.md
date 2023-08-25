@@ -38,4 +38,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
+* _[Project Header File](main.h)_
+* _[Show Executable's Name](0-whatsmyname.c)_
+
 <br />
