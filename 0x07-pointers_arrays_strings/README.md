@@ -15,3 +15,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`main`](main.h) | Project's Header File |
 | [`0-memset`](0-memset.c) | Fill Memory with Constant Byte |
 | [`1-memcpy`](1-memcpy.c) | Copy Memory Area |
+| [`2-strchr`](2-strchr.c) | Find `char` in String (Else NULL) |
