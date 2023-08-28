@@ -17,3 +17,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`1-memcpy`](1-memcpy.c) | Copy Memory Area |
 | [`2-strchr`](2-strchr.c) | Find `char` in String (Else NULL) |
 | [`3-strspn`](3-strspn.c) | Find `n` `chars` to Cover Secondary String |
+| [`4-strpbrk`](4-strpbrk.c) | First `char` in Parent Where a `char` of Child Appears |
