@@ -19,3 +19,5 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`3-strspn`](3-strspn.c) | Find `n` `chars` to Cover Secondary String |
 | [`4-strpbrk`](4-strpbrk.c) | First `char` in Parent Where a `char` of Child Appears |
 | [`5-strstr`](5-strstr.c) | Find Sub-String |
+| No Task 06 Present |
+| [`7-print_chessboard`](7-print_chessboard.c) | Show Chessboard |
