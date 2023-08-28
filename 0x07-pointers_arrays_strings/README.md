@@ -21,3 +21,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`5-strstr`](5-strstr.c) | Find Sub-String |
 | No Task 06 Present |
 | [`7-print_chessboard`](7-print_chessboard.c) | Show Chessboard |
+| [`8-print_diagsums`](8-print_diagsums.c | Show Sums of Diagonals of Square Matrix |
