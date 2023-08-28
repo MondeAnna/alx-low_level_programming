@@ -22,3 +22,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | No Task 06 Present |
 | [`7-print_chessboard`](7-print_chessboard.c) | Show Chessboard |
 | [`8-print_diagsums`](8-print_diagsums.c | Show Sums of Diagonals of Square Matrix |
+| [`100-set_string`](100-set_string.c) | Set Value of Pointer to a Char |
