@@ -36,5 +36,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Ensure `malloc` Operates as Expected](0-malloc_checked.c)_
 * _[Concatenate Two Strings](1-string_nconcat.c)_
 * _[Create Dynamically Allocated Array](2-calloc.c)_
+* _[Create Dynamically Allocated `int` Array](3-array_range.c)_
 
 <br />
