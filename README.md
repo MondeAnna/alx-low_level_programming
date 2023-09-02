@@ -37,19 +37,8 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Concepts
 
-* _[C Language Compilation Process](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)_
-* _[Data Types](https://www.geeksforgeeks.org/data-types-in-c/)_ and _[`Control Flow`](https://www.geeksforgeeks.org/decision-making-c-cpp/)_
+* _[C Language Compilation Process](https://www.studytonight.com/c/c-compilation-process.php)_
+* _[Data Type](https://www.geeksforgeeks.org/data-types-in-c/) and [Control Flow](https://www.simplilearn.com/tutorials/c-tutorial/conditional-control-statements-in-c)_
+* _[Functions](https://www.geeksforgeeks.org/c-functions/)_
 
-<<<<<<< HEAD
 <br />
-=======
-| Project name | Focal Point |
-| ------------ | ----------- |
-| [`0x00. C - Hello, World`](0x00-hello_world) | C Language Compilation Process |
-| [`0x01. C - Variables, if, else, while`](0x01-variables_if_else_while) | Data Type and Control Flow |
-| [`0x02. C - Functions, nested loops`](0x02-functions_nested_loops) | Functions |
-<<<<<<< HEAD
->>>>>>> d5dff3d... Functions (Setup): Prep for Headers, Prototypes, Declarations & Definitions
-=======
-| [`0x03. C - Debugging`](0x03-debugging) | Debugging Concepts |
->>>>>>> a60c39a... Debug (Setup): Prep for Debugging Projects
