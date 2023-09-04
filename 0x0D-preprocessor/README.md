@@ -46,5 +46,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Define Size](0-object_like_macro.h)_
 * _[Define `pi`](1-pi.h)_
 * _[Display Compilation File Name](2-main.c)_
+* _[Absolute Function as Macro](3-function_like_macro.h)_
 
 <br />
