@@ -38,5 +38,6 @@ The ability to explain, without external resources:
 
 * _[Project Header](variadic_functions.h)_
 * _[Sum Varied Arguments](0-sum_them_all.c)_
+* _[Print Numbers](1-print_numbers.c)_
 
 <br />
