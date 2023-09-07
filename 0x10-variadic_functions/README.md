@@ -36,4 +36,7 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[Project Header](variadic_functions.h)_
+* _[Sum Varied Arguments](0-sum_them_all.c)_
+
 <br />
