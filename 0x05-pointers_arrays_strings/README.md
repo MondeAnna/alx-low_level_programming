@@ -22,3 +22,5 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`6-puts2`](6-puts2.c) | Show Oddly Indexed `chars` in `str` |
 | [`7-puts_half`](7-puts_half.c) | Show Second Half of String |
 | [`8-print_array`](8-print_array.c) | Show `n` Elements in Array |
+| [`9-strcpy`](9-strcpy.c) | Copy String to New Memory Block |
+| [`100-atoi`](100-atoi.c) | Get `int` from String |
