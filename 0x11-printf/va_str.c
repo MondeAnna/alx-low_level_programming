@@ -40,29 +40,3 @@ int va_str(va_list *args)
 
 	return (write(DESCRIPTOR, str, len));
 }
-
-/**
- * get_print - select specifier related printer
- * @spec: specifier
- *
- * Return: function pointer to printer
- */
-int (*get_print(char spec))(va_list *args)
-{
-	print_t prints[] = {
-		{'c', va_char},
-		{'s', va_str},
-		{'\0', NULL}
-	};
-
-	int i = 0;
-
-	while (prints[i].spec)
-	{
-		if (spec == prints[i].spec)
-			break;
-		i++;
-	}
-
-	return (prints[i].va_func);
-}
