@@ -35,5 +35,6 @@ The ability to explain, without external resources:
 * _[Display Node Count](1-list_len.c)_
 * _[Add Node at Beginning of Linked List](2-add_node.c)_
 * _[Add Node at End of Linked List](3-add_node_end.c)_
+* _[Free Dynamically Allocated Memory](4-free_list.c)_
 
 <br />
