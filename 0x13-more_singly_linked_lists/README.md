@@ -35,5 +35,7 @@ The ability to explain, without external resources:
 * _[Print All Data in Linked List](0-print_listint.c)_
 * _[Number of Nodes in Linked List](1-listint_len.c)_
 * _[Add Node as Head of Linked List](2-add_nodeint.c)_
+* _[Add Node as Tail of Linked List](3-add_nodeint_end.c)_
 
 <br />
+
