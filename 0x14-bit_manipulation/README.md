@@ -31,5 +31,8 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[Project Header File](main.h)_
+* _[Convert Binary to `int`](0-binary_to_uint.c)_
+
 <br />
 
