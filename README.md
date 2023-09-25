@@ -53,5 +53,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[printf](https://www.geeksforgeeks.org/how-to-write-your-own-printf-in-c/)_
 * _[Singly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)_
 * _[Binary Bit Manipulation](https://www.geeksforgeeks.org/all-about-bit-manipulation/)_
+* _[File Descriptor](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)_
 
 <br />
