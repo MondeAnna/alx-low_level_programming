@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
+#define APPEND_FAIL -1
 #define CREATE_FAIL -1
 #define FILENAME_MISSING 0
 #define MALLOC_FAIL 0
@@ -17,6 +18,7 @@
 #define STR_EMPTY ""
 
 short int _strlen(char *s);
+int append_text_to_file(const char *filename, char *text_content);
 int create_file(const char *filename, char *text_content);
 ssize_t read_textfile(const char *filename, size_t read_count);
 
