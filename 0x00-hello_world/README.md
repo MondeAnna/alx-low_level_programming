@@ -47,5 +47,6 @@ The ability to explain, without external resources:
 * _[`Compilation`](1-compiler)_
 * _[`GCC Assembler`](2-assembler)_
 * _[`Executables`](3-name)_
+* _[`CLI Printout`](4-puts.c)_
 
 <br />
