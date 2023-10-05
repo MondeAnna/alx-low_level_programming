@@ -48,5 +48,6 @@ The ability to explain, without external resources:
 * _[`GCC Assembler`](2-assembler)_
 * _[`Executables`](3-name)_
 * _[`CLI Printout`](4-puts.c)_
+* _[`CLI Printout: Secondary`](5-printf.c)_
 
 <br />
