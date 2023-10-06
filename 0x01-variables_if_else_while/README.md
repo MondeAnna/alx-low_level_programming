@@ -54,5 +54,6 @@ The ability to explain, without external resources:
 * _[Discern if Number is Positive](0-positive_or_negative.c)_
 * _[Discern integral range](1-last_digit.c)_
 * _[Show Alphabet](2-print_alphabet.c)_
+* _[Show Varied Alphabet Casing](3-print_alphabets.c)_
 
 <br />
