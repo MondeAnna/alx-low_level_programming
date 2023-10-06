@@ -56,5 +56,6 @@ The ability to explain, without external resources:
 * _[Show Alphabet](2-print_alphabet.c)_
 * _[Show Varied Alphabet Casing](3-print_alphabets.c)_
 * _[Show Trimmed Alphabet](4-print_alphabt.c)_
+* _[Show Base 10 Digits](5-print_numbers.c)_
 
 <br />
