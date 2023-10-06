@@ -60,5 +60,6 @@ The ability to explain, without external resources:
 * _[Show `char` Typed Base 10 Digits](6-print_numberz.c)_
 * _[Show Reversed & Lowercased Alphabet](7-print_tebahpla.c)_
 * _[Show Base 16 Digits](8-print_base16.c)_
+* _[Show Formatted Digits](9-print_comb.c)_
 
 <br />
