@@ -63,5 +63,6 @@ The ability to explain, without external resources:
 * _[Show Formatted Digits](9-print_comb.c)_
 * _[Show Two Digit Combos](100-print_comb3.c)_
 * _[Show Three Digit Combos](101-print_comb4.c)_
+* _[Show Doubled Two Digit Combos](102-print_comb5.c)_
 
 <br />
