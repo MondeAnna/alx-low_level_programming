@@ -48,5 +48,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Dynamic Memory Allocation](https://www.geeksforgeeks.org/what-is-dynamic-memory-allocation/)_
 * _[Preprocessor Directives in C](https://www.geeksforgeeks.org/cc-preprocessors/)_
 * _[Structured Data](https://www.geeksforgeeks.org/typedef-in-c/)_
+* _[Function Pointers](https://www.geeksforgeeks.org/function-pointer-in-c/)_
 
 <br />
