@@ -37,4 +37,7 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[`Project Header File`](functions_pointers.h)_
+* _[`Show Name`](0-print_name.c)_
+
 <br />
