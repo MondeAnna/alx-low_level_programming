@@ -40,4 +40,5 @@ The ability to explain, without external resources:
 
 * _[`Single Character Printout`](0-putchar.c)_
 * _[`Show Lowercased Alphabet`](1-alphabet.c)_
+* _[`Show Lowercased Alphabet 10 Times`](2-print_alphabet_x10.c)_
 
