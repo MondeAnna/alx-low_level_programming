@@ -39,3 +39,5 @@ The ability to explain, without external resources:
 #### Low Level Programming Projects
 
 * _[`Single Character Printout`](0-putchar.c)_
+* _[`Show Lowercased Alphabet`](1-alphabet.c)_
+
