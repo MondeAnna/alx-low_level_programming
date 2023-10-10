@@ -44,4 +44,5 @@ The ability to explain, without external resources:
 * _[`Bool -> Determine if char is lowercased`](3-islower.c)_
 * _[`Bool -> Determine if char is an alphabet`](4-isalpha.c)_
 * _[`Bool -> Determine if Negative, Zero or Positive`](5-sign.c)_
-
+* _[`Algebra -> Determine Absolute Value`](6-abs.c)_
+* _[`Show Last Digit of Number`](7-print_last_digit.c)_
