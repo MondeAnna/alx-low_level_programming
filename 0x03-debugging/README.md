@@ -39,5 +39,6 @@ The ability to explain, without external resources:
 
 * _[`Change Test Output`](0-main.c)_
 * _[`Prevent Infinite Loop`](1-main.c)_
+* _[`Discern Largest of Three Values`](2-largest_number.c)_
 
 <br />
