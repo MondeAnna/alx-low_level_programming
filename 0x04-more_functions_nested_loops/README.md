@@ -44,5 +44,6 @@ The ability to explain, without external resources:
 * _[`Show Base 10 Digits`](3-print_numbers.c)_
 * _[`Show Base 10 Digits -> Exclusions Made`](4-print_most_numbers.c)_
 * _[`Show 10 Rows of Digits Ranging 0 to 14`](5-more_numbers.c)_
+* _[`Geometry -> Show Underscore Line`](6-print_line.c)_
 
 <br />
