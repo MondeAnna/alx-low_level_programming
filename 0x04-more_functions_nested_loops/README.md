@@ -48,5 +48,6 @@ The ability to explain, without external resources:
 * _[`Geometry -> Show Diagonal Line`](7-print_diagonal.c)_
 * _[`Geometry -> Show Square`](8-print_square.c)_
 * _[`Variation of FizzBuzz Exercise`](9-fizz_buzz.c)_
+* _[`Geometry -> Show Right-Angled Triangle`](10-print_triangle.c)_
 
 <br />
