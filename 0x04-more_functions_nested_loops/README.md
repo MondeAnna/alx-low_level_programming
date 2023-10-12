@@ -42,5 +42,6 @@ The ability to explain, without external resources:
 * _[`Bool -> Discern if char is Digit`](1-isdigit.c)_
 * _[`Algebra -> Multiply Two Operands`](2-mul.c)_
 * _[`Show Base 10 Digits`](3-print_numbers.c)_
+* _[`Show Base 10 Digits -> Exclusions Made`](4-print_most_numbers.c)_
 
 <br />
