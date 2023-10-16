@@ -46,5 +46,6 @@ The ability to explain, without external resources:
 * _[`Show Oddly Indexed chars in str`](6-puts2.c)_
 * _[`Show Second Half of String`](7-puts_half.c)_
 * _[`Show n Elements in Array`](8-print_array.c)_
+* _[`Copy String to New Memory Block`](9-strcpy.c)_
 
 <br />
