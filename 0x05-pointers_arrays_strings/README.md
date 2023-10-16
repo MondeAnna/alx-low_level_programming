@@ -42,5 +42,6 @@ The ability to explain, without external resources:
 * _[`Get the Length of a String`](2-strlen.c)_
 * _[`Show String`](3-puts.c)_
 * _[`Show Reversed String`](4-print_rev.c)_
+* _[`Reverse a String`](5-rev_string.c)_
 
 <br />
