@@ -42,5 +42,6 @@ The ability to explain, without external resources:
 * _[`Copy n chars from a String to Another`](2-strncpy.c)_
 * _[`Compare Two Strings`](3-strcmp.c)_
 * _[`Reverse Values in Array`](4-rev_array.c)_
+* _[`Uppercase String`](5-string_toupper.c)_
 
 <br />

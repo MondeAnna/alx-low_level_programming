@@ -9,6 +9,7 @@ int _strcmp(char *s1, char *s2);
 char *_strncpy(char *dest, char *src, int n);
 int _strlen(char *s);
 void reverse_array(int *a, int n);
+char *string_toupper(char *str);
 void swap(int *a, int *b);
 void test_strcat();
 void test_strncat_len_greater_than_src(void);
