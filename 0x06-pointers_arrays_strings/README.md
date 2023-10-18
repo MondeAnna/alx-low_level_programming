@@ -38,5 +38,6 @@ The ability to explain, without external resources:
 #### Low Level Programming Projects
 
 * _[`Append One String to Another`](0-strcat.c)_
+* _[`Append n chars to a String`](1-strncat.c)_
 
 <br />
