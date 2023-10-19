@@ -44,5 +44,6 @@ The ability to explain, without external resources:
 * _[`Reverse Values in Array`](4-rev_array.c)_
 * _[`Uppercase String`](5-string_toupper.c)_
 * _[`Capitalise All Words in a String`](6-cap_string.c)_
+* _[`Encode String Using 1337`](7-leet.c)_
 
 <br />
