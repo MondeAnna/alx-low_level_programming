@@ -4,7 +4,14 @@
 #include <assert.h>
 
 int _islower(int c);
+int _islwr(const char *c);
 int _isseparator(const char c);
+int _isuppr(const char *c);
+void _map_esc_to_period(char *b, int size);
+void _print_ascii_dec(char *b, int index, int nchars);
+void _print_ascii_hex(char *b, int index, int nchars);
+int _putchar(char c);
+void _rotate(char *c);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);
 int _strcmp(char *s1, char *s2);
@@ -13,6 +20,7 @@ int _strlen(char *s);
 char *cap_string(char *str);
 char *leet(char *str);
 void reverse_array(int *a, int n);
+char *rot13(char *str);
 char *string_toupper(char *str);
 void swap(int *a, int *b);
 void test_cap_string_special_char(void);

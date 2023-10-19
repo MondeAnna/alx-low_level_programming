@@ -45,5 +45,6 @@ The ability to explain, without external resources:
 * _[`Uppercase String`](5-string_toupper.c)_
 * _[`Capitalise All Words in a String`](6-cap_string.c)_
 * _[`Encode String Using 1337`](7-leet.c)_
+* _[`Encode String Using rot13`](100-rot13.c)_
 
 <br />
