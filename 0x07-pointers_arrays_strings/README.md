@@ -39,5 +39,7 @@ The ability to explain, without external resources:
 * _[`Find n chars to Cover Secondary String`](3-strspn.c)_
 * _[`First char in Parent Where a char of Child Appears`](4-strpbrk.c)_
 * _[`Find Sub-String`](5-strstr.c)_
+* _[`No Task 06 Present`]_
+* _[`Show Chessboard`](7-print_chessboard.c)_
 
 <br />
