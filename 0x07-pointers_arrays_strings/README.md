@@ -42,5 +42,6 @@ The ability to explain, without external resources:
 * _[`No Task 06 Present`]_
 * _[`Show Chessboard`](7-print_chessboard.c)_
 * _[`Show Sums of Diagonals of Square Matrix`](8-print_diagsums.c)_
+* _[`Set Value of Pointer to a Char`](100-set_string.c)_
 
 <br />
