@@ -37,5 +37,6 @@ The ability to explain, without external resources:
 * _[`Copy Memory Area`](1-memcpy.c)_
 * _[`Find char in String (Else NULL)`](2-strchr.c)_
 * _[`Find n chars to Cover Secondary String`](3-strspn.c)_
+* _[`First char in Parent Where a char of Child Appears`](4-strpbrk.c)_
 
 <br />
