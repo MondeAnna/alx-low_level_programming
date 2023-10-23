@@ -35,5 +35,6 @@ The ability to explain, without external resources:
 
 * _[`Fill Memory with Constant Byte`](0-memset.c)_
 * _[`Copy Memory Area`](1-memcpy.c)_
+* _[`Find char in String (Else NULL)`](2-strchr.c)_
 
 <br />
