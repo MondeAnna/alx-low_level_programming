@@ -37,4 +37,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
+* _[Project's Header File](main.h)_
+* _[CLI String Printout](0-puts_recursion.c)_
+
 <br />
