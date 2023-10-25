@@ -40,5 +40,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Project's Header File](main.h)_
 * _[CLI String Printout](0-puts_recursion.c)_
 * _[CLI Reversed String Printout](1-print_rev_recursion.c)_
+* _[Get Length of a String](2-strlen_recursion.c)_
 
 <br />
