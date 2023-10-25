@@ -42,5 +42,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[CLI Reversed String Printout](1-print_rev_recursion.c)_
 * _[Get Length of a String](2-strlen_recursion.c)_
 * _[Get Factorial](3-factorial.c)_
+* _[Exponentiation](4-pow_recursion.c)_
 
 <br />
