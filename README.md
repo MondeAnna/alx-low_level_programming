@@ -43,5 +43,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Debugging Concepts`](https://www.geeksforgeeks.org/gdb-step-by-step-introduction/)_
 * _[Pointers](https://www.geeksforgeeks.org/c-pointers/)_
 * _[Recursion](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)_
+* _[Static Libraries](https://www.geeksforgeeks.org/static-vs-dynamic-libraries/)_
 
 <br />
