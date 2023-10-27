@@ -40,5 +40,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[Project Header File](main.h)_
 * _[Show Executable's Name](0-whatsmyname.c)_
+* _[Show CLI Argument Count](1-args.c)_
 
 <br />
