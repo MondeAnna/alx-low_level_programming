@@ -33,5 +33,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 <br />
 
 #### Low Level Programming Projects
+* _[Project Header File](main.h)_
+* _[Array with Dynamically Allocated Memory](0-create_array.c)_
 
 <br />
