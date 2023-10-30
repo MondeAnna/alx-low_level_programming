@@ -36,5 +36,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Project Header File](main.h)_
 * _[Array with Dynamically Allocated Memory](0-create_array.c)_
 * _[Duplicate String to Dynamically Allocated Memory](1-strdup.c)_
+* _[Concatenate Two Strings](2-str_concat.c)_
 
 <br />
