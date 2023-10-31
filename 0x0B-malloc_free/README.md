@@ -39,5 +39,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Concatenate Two Strings](2-str_concat.c)_
 * _[Dynamically Allocate Memory to 2-D Array](3-alloc_grid.c)_
 * _[Free Dynamically Allocated 2-D Array](4-free_grid.c)_
+* _[Concatenate Multiple Strings into One](100-argstostr.c)_
 
 <br />
