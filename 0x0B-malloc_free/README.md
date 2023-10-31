@@ -38,5 +38,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Duplicate String to Dynamically Allocated Memory](1-strdup.c)_
 * _[Concatenate Two Strings](2-str_concat.c)_
 * _[Dynamically Allocate Memory to 2-D Array](3-alloc_grid.c)_
+* _[Free Dynamically Allocated 2-D Array](4-free_grid.c)_
 
 <br />
