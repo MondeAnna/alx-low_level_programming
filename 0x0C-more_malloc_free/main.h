@@ -4,6 +4,8 @@
 #include <stdlib.h>
 
 void *_calloc(unsigned int nmemb, unsigned int size);
+void *_memcpy(void *dest, void *src, unsigned int n);
+void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 unsigned int _strlen(const char *str);
 int *array_range(int min, int max);
 void *malloc_checked(unsigned int b);
