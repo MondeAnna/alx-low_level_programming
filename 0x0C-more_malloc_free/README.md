@@ -38,5 +38,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Create Dynamically Allocated Array](2-calloc.c)_
 * _[Create Dynamically Allocated `int` Array](3-array_range.c)_
 * _[Dynamic Memory Reallocation](100-realloc.c)_ 
+* _[Multiply Two Positive Numbers](101-mul.c)_
 
 <br />
