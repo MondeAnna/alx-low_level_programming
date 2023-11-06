@@ -43,4 +43,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
+* _[Define Size](0-object_like_macro.h)_
+
 <br />
