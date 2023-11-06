@@ -46,5 +46,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Static Libraries](https://www.geeksforgeeks.org/static-vs-dynamic-libraries/)_
 * _[Command Line Arguments](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/)_
 * _[Dynamic Memory Allocation](https://www.geeksforgeeks.org/what-is-dynamic-memory-allocation/)_
+* _[Preprocessor Directives in C](https://www.geeksforgeeks.org/cc-preprocessors/)_
 
 <br />
