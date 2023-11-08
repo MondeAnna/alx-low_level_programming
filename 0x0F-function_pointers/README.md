@@ -41,5 +41,6 @@ The ability to explain, without external resources:
 * _[`Show Name`](0-print_name.c)_
 * _[`Command Pattern Over Array`](1-array_iterator.c)_
 * _[`Get Index of Element`](2-int_index.c)_
+* _[`CLI Arithmetic`](3-calc.h)_
 
 <br />
