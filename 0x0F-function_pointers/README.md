@@ -39,5 +39,6 @@ The ability to explain, without external resources:
 
 * _[`Project Header File`](functions_pointers.h)_
 * _[`Show Name`](0-print_name.c)_
+* _[`Command Pattern Over Array`](1-array_iterator.c)_
 
 <br />
