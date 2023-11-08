@@ -1,2 +1,12 @@
+# nano temp file
 *.swp
+
+# generic GNU executable
 a.out
+
+# betty and gcc combined
+# bash command: betty $FILE && gcc $FILE && ./a.out
+test
+
+# from 0x05. C - Pointers, arrays and strings
+101-crackme

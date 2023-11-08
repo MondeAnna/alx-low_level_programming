@@ -40,5 +40,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[C Language Compilation Process](https://www.studytonight.com/c/c-compilation-process.php)_
 * _[Data Type](https://www.geeksforgeeks.org/data-types-in-c/) and [Control Flow](https://www.simplilearn.com/tutorials/c-tutorial/conditional-control-statements-in-c)_
 * _[Functions](https://www.geeksforgeeks.org/c-functions/)_
+* _[Debugging Concepts](https://www.geeksforgeeks.org/gdb-step-by-step-introduction/)_
+* _[Pointers](https://www.geeksforgeeks.org/c-pointers/)_
 
 <br />
