@@ -62,6 +62,6 @@ The ability to explain, without external resources:
 * _[Show Base 16 Digits](8-print_base16.c)_
 * _[Show Formatted Digits](9-print_comb.c)_
 * _[Show Two Digit Combos](100-print_comb3.c)_
+* _[Show Three Digit Combos](101-print_comb4.c)_
 
 <br />
-
