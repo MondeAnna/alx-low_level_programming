@@ -52,5 +52,6 @@ The ability to explain, without external resources:
 #### Low Level Programming Projects
 
 * _[Discern if Number is Positive](0-positive_or_negative.c)_
+* _[Discern integral range](1-last_digit.c)_
 
 <br />
