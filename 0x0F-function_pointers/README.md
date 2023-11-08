@@ -42,5 +42,6 @@ The ability to explain, without external resources:
 * _[`Command Pattern Over Array`](1-array_iterator.c)_
 * _[`Get Index of Element`](2-int_index.c)_
 * _[`CLI Arithmetic`](3-calc.h)_
+* _[`Show Hexidecimal Operation Code`](100-main_opcodes.c)_
 
 <br />
