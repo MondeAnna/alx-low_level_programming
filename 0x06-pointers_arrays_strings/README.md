@@ -25,3 +25,4 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 | [`101-print_number`](101-print_number.c) | Show an Integer |
 | [`102-magic`](102-magic.c) | Change Value via Dereferencing |
 | [`103-infinite_add`](103-infinite_add.c) | Add ad nauseam |
+| [`104-print_buffer`](104-print_buffer.c) | Show Values in Buffer |
