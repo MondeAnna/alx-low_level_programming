@@ -40,5 +40,6 @@ The ability to explain, without external resources:
 * _[Sum Varied Arguments](0-sum_them_all.c)_
 * _[Print Numbers](1-print_numbers.c)_
 * _[Print Strings](2-print_strings.c)_
+* _[Print Anything](3-print_all.c)_
 
 <br />
