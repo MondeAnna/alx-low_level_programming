@@ -12,7 +12,7 @@
 /**
  * struct print - spec-func map
  * @spec: specifier
- * @var_func: function
+ * @va_func: function
  *
  * Description: map of char spec to va list
  * parse and print function
@@ -28,9 +28,11 @@ int _printf(const char *format, ...);
 int _putchar(char c);
 int _strlen(char *str);
 
-int helper_int(int num);
+int helper_int(int num, const int base);
+int helper_uint(unsigned int num, const unsigned int base);
 
 int va_char(va_list *args);
+int va_bin(va_list *args);
 int va_int(va_list *args);
 int va_str(va_list *args);
 
