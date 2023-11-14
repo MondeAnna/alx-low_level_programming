@@ -58,3 +58,24 @@ void spec_i_test(void)
 	count_01 = _printf("01234%i", 56789);
 	printf("  --  Actual Count: %d\n", count_01);
 }
+
+/**
+ * spec_o_test - anon int to oct
+ *
+ * Return: void
+ */
+void spec_o_test(void)
+{
+	int count_00, count_01;
+
+	puts("\n========================================");
+	puts("============   I SPECIFIER   ===========");
+	puts("========================================\n");
+
+
+	count_00 = printf("Octal 635: %o", 635);
+	printf("  --  Expect Count: %d\n", count_00);
+
+	count_01 = _printf("Octal 635: %o", 635);
+	printf("  --  Actual Count: %d\n", count_01);
+}

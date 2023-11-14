@@ -34,6 +34,7 @@ int helper_uint(unsigned int num, const unsigned int base);
 int va_char(va_list *args);
 int va_bin(va_list *args);
 int va_int(va_list *args);
+int va_oct(va_list *args);
 int va_str(va_list *args);
 
 #endif /* MAIN_H */
