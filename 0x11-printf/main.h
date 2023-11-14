@@ -39,5 +39,6 @@ int va_hex_upper(va_list *args);
 int va_int(va_list *args);
 int va_oct(va_list *args);
 int va_str(va_list *args);
+int va_uint(va_list *args);
 
 #endif /* MAIN_H */

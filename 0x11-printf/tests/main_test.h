@@ -15,9 +15,9 @@ void spec_c_test(void);
 void spec_s_test(void);
 
 void spec_b_test(void);
-void spec_d_test(void);
-void spec_i_test(void);
+void spec_int_test(void);
 void spec_o_test(void);
+void spec_u_test(void);
 void spec_x_test(void);
 
 #endif /* MAIN_TEST_H */

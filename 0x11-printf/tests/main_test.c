@@ -15,9 +15,9 @@ int main(void)
 	spec_s_test();
 
 	spec_b_test();
-	spec_d_test();
-	spec_i_test();
+	spec_int_test();
 	spec_o_test();
+	spec_u_test();
 	spec_x_test();
 
 	return (EXIT_SUCCESS);
