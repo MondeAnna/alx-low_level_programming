@@ -2,6 +2,7 @@
 #define MAIN_H
 
 #define DESCRIPTOR 1
+#define EXIT_FAIL -1
 #define ONE 1
 
 #include <stdarg.h>

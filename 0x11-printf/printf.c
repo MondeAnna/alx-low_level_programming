@@ -11,9 +11,29 @@
 int _printf(const char *format, ...)
 {
 	int count = 0;
+	va_list args;
+
+	if (!format)
+		return (EXIT_FAIL);
+
+	va_start(args, format);
 
 	while (*format)
-		count += _putchar(*format++);
+	{
+		if (*format != '%')
+		{
+			_putchar(*format++);
+			count++;
+			continue;
+		}
+
+		format++;
+		_putchar('%');
+		count++;
+		format++;
+	}
+
+	va_end(args);
 
 	return (count);
 }

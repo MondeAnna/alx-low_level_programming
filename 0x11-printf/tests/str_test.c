@@ -39,3 +39,23 @@ void no_va_str_test(void)
 	count_01 = _printf("12345");
 	printf("  --  Actual Count: %d\n", count_01);
 }
+
+/**
+ * spec_percent_test - percent char
+ *
+ * Return: void
+ */
+void spec_percent_test(void)
+{
+	int count_00, count_01;
+
+	puts("\n========================================");
+	puts("============  %% SPECIFIER   ===========");
+	puts("========================================\n");
+
+	count_00 = printf("12%%");
+	printf("  -- Expect Count: %d\n", count_00);
+
+	count_01 = _printf("12%%");
+	printf("  -- Actual Count: %d\n", count_01);
+}
