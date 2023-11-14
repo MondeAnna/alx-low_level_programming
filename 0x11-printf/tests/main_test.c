@@ -12,6 +12,7 @@ int main(void)
 
 	spec_percent_test();
 	spec_c_test();
+	spec_s_test();
 
 	return (EXIT_SUCCESS);
 }

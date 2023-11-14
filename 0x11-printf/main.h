@@ -26,7 +26,10 @@ int (*get_print(char spec))(va_list *args);
 
 int _printf(const char *format, ...);
 int _putchar(char c);
+int _strlen(char *str);
 
 int va_char(va_list *args);
+int va_str(va_list *args);
+
 
 #endif /* MAIN_H */

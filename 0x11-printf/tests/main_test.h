@@ -12,5 +12,6 @@ void no_va_str_test(void);
 
 void spec_percent_test(void);
 void spec_c_test(void);
+void spec_s_test(void);
 
 #endif /* MAIN_TEST_H */

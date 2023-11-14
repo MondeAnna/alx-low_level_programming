@@ -79,3 +79,23 @@ void spec_c_test(void)
 	count_01 = _printf("1234%c6789", '5');
 	printf("  --  Actual Count: %d\n", count_01);
 }
+
+/**
+ * spec_s_test - str as arg
+ *
+ * Return: void
+ */
+void spec_s_test(void)
+{
+	int count_00, count_01;
+
+	puts("\n========================================");
+	puts("============   S SPECIFIER   ===========");
+	puts("========================================\n");
+
+	count_00 = printf("01234%s", "56789");
+	printf("  --  Expect Count: %d\n", count_00);
+
+	count_01 = _printf("01234%s", "56789");
+	printf("  --  Actual Count: %d\n", count_01);
+}

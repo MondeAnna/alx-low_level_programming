@@ -51,6 +51,7 @@ int (*get_print(char spec))(va_list *args)
 {
 	print_t prints[] = {
 		{'c', va_char},
+		{'s', va_str},
 		{'\0', NULL}
 	};
 
