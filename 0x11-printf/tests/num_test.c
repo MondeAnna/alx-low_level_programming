@@ -72,10 +72,41 @@ void spec_o_test(void)
 	puts("============   I SPECIFIER   ===========");
 	puts("========================================\n");
 
-
 	count_00 = printf("Octal 635: %o", 635);
 	printf("  --  Expect Count: %d\n", count_00);
 
 	count_01 = _printf("Octal 635: %o", 635);
+	printf("  --  Actual Count: %d\n", count_01);
+}
+
+/**
+ * spec_x_test - anon int to oct
+ *
+ * Return: void
+ */
+void spec_x_test(void)
+{
+	int count_00, count_01;
+
+	puts("\n========================================");
+	puts("============   X SPECIFIER   ===========");
+	puts("===============   LOWER   ==============");
+	puts("========================================\n");
+
+	count_00 = printf("%x", 2907);
+	printf("  --  Expect Count: %d\n", count_00);
+
+	count_01 = _printf("%x", 2907);
+	printf("  --  Actual Count: %d\n", count_01);
+
+	puts("\n========================================");
+	puts("============   X SPECIFIER   ===========");
+	puts("===============   UPPER   ==============");
+	puts("========================================\n");
+
+	count_00 = printf("%X", -999);
+	printf("  --  Expect Count: %d\n", count_00);
+
+	count_01 = _printf("%X", -999);
 	printf("  --  Actual Count: %d\n", count_01);
 }

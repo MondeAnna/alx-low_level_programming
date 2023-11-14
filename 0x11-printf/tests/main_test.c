@@ -18,6 +18,7 @@ int main(void)
 	spec_d_test();
 	spec_i_test();
 	spec_o_test();
+	spec_x_test();
 
 	return (EXIT_SUCCESS);
 }

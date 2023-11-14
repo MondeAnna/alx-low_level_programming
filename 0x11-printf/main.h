@@ -28,11 +28,14 @@ int _printf(const char *format, ...);
 int _putchar(char c);
 int _strlen(char *str);
 
+int helper_hex(const char specifier, unsigned int num);
 int helper_int(int num, const int base);
 int helper_uint(unsigned int num, const unsigned int base);
 
-int va_char(va_list *args);
 int va_bin(va_list *args);
+int va_char(va_list *args);
+int va_hex_lower(va_list *args);
+int va_hex_upper(va_list *args);
 int va_int(va_list *args);
 int va_oct(va_list *args);
 int va_str(va_list *args);
