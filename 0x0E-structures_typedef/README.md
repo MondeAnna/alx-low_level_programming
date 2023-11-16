@@ -37,5 +37,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Assign Values to Dog Object](1-init_dog.c)_
 * _[Show Object Attribute Values](2-print_dog.c)_
 * _[Dynamically Allocated Dog Object](4-new_dog.c))
+* _[Free Dynamically Allocated Dog Object](5-free_dog.c)_
 
 <br />
