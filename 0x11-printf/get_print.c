@@ -13,7 +13,11 @@ int (*get_print(char spec))(va_list * args)
 		{'c', va_char},
 		{'d', va_int},
 		{'i', va_int},
+		{'o', va_oct},
 		{'s', va_str},
+		{'u', va_uint},
+		{'x', va_hex_lower},
+		{'X', va_hex_upper},
 		{'\0', NULL}
 	};
 
