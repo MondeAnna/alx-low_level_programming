@@ -33,5 +33,6 @@ The ability to explain, without external resources:
 * _[Header File](list.h)_
 * _[Display Node Values](0-print_list.c)_
 * _[Display Node Count](1-list_len.c)_
+* _[Add Node at Beginning of Linked List](2-add_node.c)_
 
 <br />
