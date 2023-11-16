@@ -9,10 +9,11 @@
 int (*get_print(char spec))(va_list * args)
 {
 	print_t prints[] = {
-		{'c', var_char},
-		{'d', var_int},
-		{'i', var_int},
-		{'s', var_str},
+		{'b', va_bin},
+		{'c', va_char},
+		{'d', va_int},
+		{'i', va_int},
+		{'s', va_str},
 		{'\0', NULL}
 	};
 
@@ -25,5 +26,5 @@ int (*get_print(char spec))(va_list * args)
 		i++;
 	}
 
-	return (prints[i].var_func);
+	return (prints[i].va_func);
 }
