@@ -30,4 +30,7 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[Header File](list.h)_
+* _[Display Node Values](0-print_list.c)_
+
 <br />
