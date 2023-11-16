@@ -34,5 +34,6 @@ The ability to explain, without external resources:
 * _[Display Node Values](0-print_list.c)_
 * _[Display Node Count](1-list_len.c)_
 * _[Add Node at Beginning of Linked List](2-add_node.c)_
+* _[Add Node at End of Linked List](3-add_node_end.c)_
 
 <br />
