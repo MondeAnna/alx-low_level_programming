@@ -33,4 +33,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
+* _[Dog Object](dog.h)_
+
 <br />
