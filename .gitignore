@@ -1,15 +1,13 @@
-# nano temp file
-*.swp
+# everything
+*
 
-# generic GNU executable
-a.out
+# except
+!.gitignore
+!*.c
+!*.h
+!*.md
+!tests
+!0x*
 
-# betty and gcc combined
-# bash command: betty $FILE && gcc $FILE && ./a.out
-test
-
-# from 0x05. C - Pointers, arrays and strings
-101-crackme
-
-# from 0x07. C - Even more pointers, arrays and strings
-crackme2
+# untracked: special
+main.c
