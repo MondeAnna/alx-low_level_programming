@@ -43,5 +43,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Get Length of a String](2-strlen_recursion.c)_
 * _[Get Factorial](3-factorial.c)_
 * _[Exponentiation](4-pow_recursion.c)_
+* _[Determine Natural Square-Root](5-sqrt_recursion.c)_
 
 <br />
