@@ -36,5 +36,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[Project's Header File](main.h)_
 * _[Static Library Composed of My C-Language Projects](libmy.a)_
+* _[Create the Library `liball.a` from C Source Files](create_static_lib.sh)_
 
 <br />
