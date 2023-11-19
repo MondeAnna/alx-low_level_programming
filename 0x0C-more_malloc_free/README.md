@@ -32,4 +32,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
+* _[Project Header File](main.h)_
+* _[Ensure `malloc` Operates as Expected](0-malloc_checked.c)_
+
 <br />
