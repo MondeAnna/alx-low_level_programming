@@ -44,5 +44,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Get Factorial](3-factorial.c)_
 * _[Exponentiation](4-pow_recursion.c)_
 * _[Determine Natural Square-Root](5-sqrt_recursion.c)_
+* _[Determine if `int` is prime](6-is_prime_number.c)_
 
 <br />
