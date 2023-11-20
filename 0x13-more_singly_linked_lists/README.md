@@ -31,4 +31,7 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[Project Header File](lists.h)_
+* _[Print All Data in Linked List](0-print_listint.c)_
+
 <br />
