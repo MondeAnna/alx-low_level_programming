@@ -40,6 +40,7 @@ The ability to explain, without external resources:
 * _[Free All Nodes of Linked List, Setting Head to `NULL`](5-free_listint2.c)_
 * _[Pop First Item in Linked List](6-pop_listint.c)_
 * _[Get nth Node](7-get_nodeint.c)_
+* _[Sum Data in Linked List](8-sum_listint.c)_
 
 <br />
 
