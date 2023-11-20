@@ -33,5 +33,6 @@ The ability to explain, without external resources:
 
 * _[Project Header File](lists.h)_
 * _[Print All Data in Linked List](0-print_listint.c)_
+* _[Number of Nodes in Linked List](1-listint_len.c)_
 
 <br />
