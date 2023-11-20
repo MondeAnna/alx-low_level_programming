@@ -37,6 +37,7 @@ The ability to explain, without external resources:
 * _[Add Node as Head of Linked List](2-add_nodeint.c)_
 * _[Add Node as Tail of Linked List](3-add_nodeint_end.c)_
 * _[Free All Nodes of Linked List](4-free_listint.c)_
+* _[Free All Nodes of Linked List, Setting Head to `NULL`](5-free_listint2.c)_
 
 <br />
 
