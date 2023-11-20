@@ -36,6 +36,7 @@ The ability to explain, without external resources:
 * _[Number of Nodes in Linked List](1-listint_len.c)_
 * _[Add Node as Head of Linked List](2-add_nodeint.c)_
 * _[Add Node as Tail of Linked List](3-add_nodeint_end.c)_
+* _[Free All Nodes of Linked List](4-free_listint.c)_
 
 <br />
 
