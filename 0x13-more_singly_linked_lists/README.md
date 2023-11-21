@@ -41,6 +41,7 @@ The ability to explain, without external resources:
 * _[Pop First Item in Linked List](6-pop_listint.c)_
 * _[Get nth Node](7-get_nodeint.c)_
 * _[Sum Data in Linked List](8-sum_listint.c)_
+* _[Insert Node at Given Index](9-insert_nodeint.c)_
 
 <br />
 
