@@ -43,6 +43,7 @@ The ability to explain, without external resources:
 * _[Sum Data in Linked List](8-sum_listint.c)_
 * _[Insert Node at Given Index](9-insert_nodeint.c)_
 * _[Delete Node at Given Index](10-delete_nodeint.c)_
+* _[Print All Data in Linked List](101-print_listint_safe.c)_
 
 <br />
 
