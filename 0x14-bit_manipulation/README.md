@@ -38,6 +38,7 @@ The ability to explain, without external resources:
 * _[Set Bit at Given Index to `1`](3-set_bit.c)_
 * _[Set Bit at Given Index to `0`](4-clear_bit.c)_
 * _[Count Bits to Flip to Convert to Secondary Digit](5-flip_bits.c)_
+* _[Discern Endianness](100-get_endianness.c)_
 
 <br />
 
