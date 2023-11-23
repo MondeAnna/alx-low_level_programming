@@ -37,6 +37,7 @@ The ability to explain, without external resources:
 * _[Get Bit at Given Index](2-get_bit.c)_
 * _[Set Bit at Given Index to `1`](3-set_bit.c)_
 * _[Set Bit at Given Index to `0`](4-clear_bit.c)_
+* _[Count Bits to Flip to Convert to Secondary Digit](5-flip_bits.c)_
 
 <br />
 
