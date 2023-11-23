@@ -34,6 +34,7 @@ The ability to explain, without external resources:
 * _[Project Header File](main.h)_
 * _[Convert Binary to `int`](0-binary_to_uint.c)_
 * _[Print Binary Form of `int`](1-print_binary.c)_
+* _[Get Bit at Given Index](2-get_bit.c)_
 
 <br />
 
