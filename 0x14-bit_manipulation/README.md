@@ -36,6 +36,7 @@ The ability to explain, without external resources:
 * _[Print Binary Form of `int`](1-print_binary.c)_
 * _[Get Bit at Given Index](2-get_bit.c)_
 * _[Set Bit at Given Index to `1`](3-set_bit.c)_
+* _[Set Bit at Given Index to `0`](4-clear_bit.c)_
 
 <br />
 
