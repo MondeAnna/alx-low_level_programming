@@ -48,6 +48,7 @@ The ability to explain, without external resources:
 * _[Header File](main.h)_
 * _[Read Text File, Print to POSIX STDOUT](0-read_textfile.c)_ 
 * _[Create a File](1-create_file.c)_
+* _[Append Text to File](2-append_text_to_file.c)_
 
 <br />
 
