@@ -2,10 +2,13 @@
 #define MAIN_H
 
 #include <fcntl.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
 
 #define APPEND_FAIL -1
+#define BUFFER 1024
+#define CLOSE_FAIL -1
 #define CREATE_FAIL -1
 #define FILENAME_MISSING 0
 #define MALLOC_FAIL 0
