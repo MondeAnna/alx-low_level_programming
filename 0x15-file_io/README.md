@@ -45,5 +45,8 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[Header File](main.h)_
+* _[Read Text File, Print to POSIX STDOUT](0-read_textfile.c)_ 
+
 <br />
 
