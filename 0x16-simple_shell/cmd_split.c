@@ -23,8 +23,11 @@ char **cmd_split(char *cmd)
 
 	while (arg)
 	{
-		args[index++] = arg;
+		argc = _strlen(arg) + NULL_BYTE;
+		args[index] = malloc(sizeof(*arg) * argc);
+		args[index] = arg;
 		arg = strtok(NULL, DELIMITERS);
+		index++;
 	}
 
 	args[index] = NULL;
