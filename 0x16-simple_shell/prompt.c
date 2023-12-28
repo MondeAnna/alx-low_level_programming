@@ -18,5 +18,6 @@ void prompt(void)
 	gethostname(host, sizeof(host));
 	getcwd(cwd, sizeof(cwd));
 
-	_printf("%s@%s:%s$ ", login, host, cwd);
+	/* _printf("%s@%s:%s$ ", login, host, cwd); */
+	_printf("#cisfun$ ");
 }
