@@ -34,5 +34,7 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[`Print All Elements in List`](0-print_dlistint.c)_
+
 <br />
 
