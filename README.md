@@ -54,6 +54,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Singly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)_
 * _[Binary Bit Manipulation](https://www.geeksforgeeks.org/all-about-bit-manipulation/)_
 * _[File Descriptor](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)_
+* _[Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/)_
 
 	* _[Integrating Prior Work](/concepts/PRINTF.md)_
 
