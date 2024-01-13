@@ -40,6 +40,7 @@ The ability to explain, without external resources:
 * _[`Insert Node at End of List`](3-add_dnodeint_end.c)_
 * _[`Free a List`](4-free_dlistint.c)_
 * _[`Get nth Node of List`](5-get_dnodeint.c)_
+* _[`Sum All Data in List`](6-sum_dlistint.c)_
 
 <br />
 
