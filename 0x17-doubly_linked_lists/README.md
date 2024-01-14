@@ -39,6 +39,7 @@ The ability to explain, without external resources:
 * _[`Insert Node at Start of List`](2-add_dnodeint.c)_
 * _[`Insert Node at End of List`](3-add_dnodeint_end.c)_
 * _[`Free a List`](4-free_dlistint.c)_
+* _[`Get nth Node of List`](5-get_dnodeint.c)_
 
 <br />
 
