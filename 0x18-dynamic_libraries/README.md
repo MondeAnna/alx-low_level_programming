@@ -36,6 +36,6 @@ The ability to explain, without external resources:
 #### Low Level Programming Projects
 
 * _[`Create Dynamic Library`](libdynamic.so)_
+* _[`Create Dynamic List via Script`](1-create_dynamic_lib.sh)_
 
 <br />
-
