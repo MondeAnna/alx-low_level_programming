@@ -37,5 +37,6 @@ The ability to explain, without external resources:
 
 * _[`Create Dynamic Library`](libdynamic.so)_
 * _[`Create Dynamic List via Script`](1-create_dynamic_lib.sh)_
+* _[`Basic Math Operations`](100-operations.so)_
 
 <br />
