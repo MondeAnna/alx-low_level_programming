@@ -11,6 +11,7 @@
 !tests
 !0x*
 !src/
+!operations/
 
 # untracked: special
 main.c
