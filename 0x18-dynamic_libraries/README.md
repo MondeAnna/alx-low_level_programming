@@ -35,5 +35,7 @@ The ability to explain, without external resources:
 
 #### Low Level Programming Projects
 
+* _[`Create Dynamic Library`](libdynamic.so)_
+
 <br />
 
