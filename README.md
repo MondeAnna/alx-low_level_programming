@@ -56,6 +56,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[File Descriptor](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)_
 * _[Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/)_
 * _[Dynamic Libraries](https://medium.com/meatandmachines/shared-dynamic-libraries-in-the-c-programming-language-8c2c03311756)_
+* _[Hash Table Data Structure](https://www.geeksforgeeks.org/hash-table-data-structure/)_
 
 	* _[Integrating Prior Work](/concepts/PRINTF.md)_
 
