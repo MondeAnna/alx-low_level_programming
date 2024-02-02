@@ -56,5 +56,6 @@ As from this project:
 * _[`Add Element to Table`](3-hash_table_set.c)_
 * _[`Gett Value Associated with Key`](4-hash_table_get.c)_
 * _[`Print Hash Table`](5-hash_table_print.c)_
+* _[`Delete Hash Table`](6-hash_table_delete.c)_
 
 <br />
