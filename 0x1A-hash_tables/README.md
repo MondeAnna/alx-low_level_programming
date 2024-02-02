@@ -47,3 +47,9 @@ As from this project:
 * **Don't trust the user**, always think about all possible edge cases
 
 <br />
+
+#### Low Level Programming Projects
+
+* _[`Create Hash Table`](0-hash_table_create.c)_
+
+<br />
