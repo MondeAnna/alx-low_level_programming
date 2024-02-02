@@ -52,5 +52,6 @@ As from this project:
 
 * _[`Create Hash Table`](0-hash_table_create.c)_
 * _[`DJB2 Algorithmn`](1-djb2.c)_
+* _[`Index of Key`](2-key_index.c)_
 
 <br />
