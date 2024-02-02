@@ -55,5 +55,6 @@ As from this project:
 * _[`Index of Key`](2-key_index.c)_
 * _[`Add Element to Table`](3-hash_table_set.c)_
 * _[`Gett Value Associated with Key`](4-hash_table_get.c)_
+* _[`Print Hash Table`](5-hash_table_print.c)_
 
 <br />
