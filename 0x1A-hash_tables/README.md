@@ -51,5 +51,6 @@ As from this project:
 #### Low Level Programming Projects
 
 * _[`Create Hash Table`](0-hash_table_create.c)_
+* _[`DJB2 Algorithmn`](1-djb2.c)_
 
 <br />
