@@ -54,5 +54,6 @@ As from this project:
 * _[`DJB2 Algorithmn`](1-djb2.c)_
 * _[`Index of Key`](2-key_index.c)_
 * _[`Add Element to Table`](3-hash_table_set.c)_
+* _[`Gett Value Associated with Key`](4-hash_table_get.c)_
 
 <br />
