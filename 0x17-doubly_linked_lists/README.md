@@ -42,6 +42,7 @@ The ability to explain, without external resources:
 * _[`Get nth Node of List`](5-get_dnodeint.c)_
 * _[`Sum All Data in List`](6-sum_dlistint.c)_
 * _[`Insert Node at Given Index`](7-insert_dnodeint.c)_
+* _[`Delete at Index`](8-delete_dnodeint.c)_
 
 <br />
 
