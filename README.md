@@ -60,3 +60,9 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Hash Table Data Structure](https://www.geeksforgeeks.org/hash-table-data-structure/)_
 
 <br />
+
+#### Low Level Programming Projects
+
+* _[`Bubble Sort`](0-bubble_sort.c)_
+
+<br />
