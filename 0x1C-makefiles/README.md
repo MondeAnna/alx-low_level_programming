@@ -37,6 +37,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 #### Low Level Programming Projects
 
-* _[`Make I`](0-Makefile)_
+* _[`Make 00`](0-Makefile)_
+* _[`Make 01`](1-Makefile)_
 
 <br />
