@@ -39,5 +39,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 
 * _[`Make 00`](0-Makefile)_
 * _[`Make 01`](1-Makefile)_
+* _[`Make 02`](2-Makefile)_
 
 <br />
