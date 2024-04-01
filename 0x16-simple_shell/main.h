@@ -5,6 +5,9 @@
 
 #include "_printf.h"
 
+#include <stdio.h>
+
+char *cmd_get(void);
 void prompt(void);
 
 #endif  /* MAIN_H */
