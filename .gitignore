@@ -1,2 +1,23 @@
-*.swp
-a.out
+# everything
+*
+
+# except
+!.gitignore
+!*.c
+!*.h
+!*.md
+!AUTHORS
+!concepts
+!tests
+!0x*
+!*.sh
+!*.so
+!tests
+!0x*
+!compilables/
+!operations/
+!src/
+!*-Makefile
+
+# untracked: special
+main.c
