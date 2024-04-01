@@ -2,9 +2,10 @@
 
 /**
  * run - application execution point
+ * @environ: environment during execution
  * Return: EXIT_SUCCESS
  */
-int run(void)
+int run(char **environ)
 {
 	char **args = NULL;
 	char *cmd;
@@ -18,7 +19,7 @@ int run(void)
 			exit(EXIT_FAILURE);
 
 		args = cmd_split(cmd);
-		cmd_exec(args);
+		cmd_exec(args, environ);
 
 		free(args);
 	}

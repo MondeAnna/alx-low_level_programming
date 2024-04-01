@@ -13,10 +13,10 @@
 #define NULL_BYTE 1
 #define TRUE 1
 
-pid_t cmd_exec(char **input);
+pid_t cmd_exec(char **input, char **environ);
 char *cmd_get(void);
 char **cmd_split(char *cmd);
 void prompt(void);
-int run(void);
+int run(char **environ);
 
 #endif  /* MAIN_H */
