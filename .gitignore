@@ -18,6 +18,3 @@
 !operations/
 !src/
 !*-Makefile
-
-# untracked: special
-main.c

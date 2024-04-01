@@ -55,4 +55,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Binary Bit Manipulation](https://www.geeksforgeeks.org/all-about-bit-manipulation/)_
 * _[File Descriptor](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)_
 
+	* _[Integrating Prior Work](/concepts/PRINTF.md)_
+
 <br />
