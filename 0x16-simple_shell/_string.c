@@ -19,6 +19,31 @@ short int _n_chars(char *str, char char_)
 }
 
 /**
+ * _strcat - append one string to another
+ * @dest: left operand being added to
+ * @src: right operand
+ *
+ * Return: Pointer to @dest (char *)
+ */
+char *_strcat(char *dest, char *src)
+{
+	char *root = dest;
+
+	while (*dest != '\0')
+		dest++;
+
+	while (*src != '\0')
+	{
+		*dest++ = *src++;
+	}
+
+	*dest = *src;
+	dest = root;
+
+	return (dest);
+}
+
+/**
  * _strlen - get the length of a string
  * @s: string in question
  * Return: Always 0.

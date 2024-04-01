@@ -3,15 +3,17 @@
 /**
  * cmd_split - create array of arguemnts from user command
  * @cmd: command line input
- * @args: array of (to be) tokenised arguments
  * Return: array of user command (char **)
  */
-char **cmd_split(char *cmd, char **args)
+char **cmd_split(char *cmd)
 {
-	int argc = n_char_occurances(cmd, ' ') + 1;
-	int index = 0;
+	char **args;
 	char *arg;
+	int argc;
 
+	int index = 0;
+
+	argc = _n_chars(cmd, ' ') + NULL_BYTE;
 	args = malloc(sizeof(*cmd) * argc);
 
 	if (!args)

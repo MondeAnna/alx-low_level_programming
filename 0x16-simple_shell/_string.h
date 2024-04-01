@@ -5,6 +5,7 @@
 #include <string.h>
 
 short int _n_chars(char *str, char char_);
+char *_strcat(char *dest, char *src);
 int _strcmp(char *s1, char *s2);
 int _strlen(char *s);
 

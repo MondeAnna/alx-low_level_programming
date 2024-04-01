@@ -7,19 +7,19 @@
  */
 pid_t cmd_exec(char **args)
 {
+	char bin_dir[BUFFER] = "/usr/bin/";
 	pid_t process_id = fork();
+	char *env[] = {NULL};
 
 	if (process_id == CHILD_PROCESS_FAIL)
 		return (process_id);
 
 	if (process_id == CHILD_PROCESS_SUCCESS)
 	{
-		char *env[] = {NULL};
 
-		execve(args[0], args, env);
-
+		_strcat(bin_dir, args[0]);
+		execve(bin_dir, args, env);
 		perror(args[0]);
-
 		return (process_id);
 	}
 
