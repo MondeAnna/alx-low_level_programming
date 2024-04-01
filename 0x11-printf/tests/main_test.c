@@ -11,6 +11,7 @@ int main(void)
 	no_va_str_test();
 
 	spec_percent_test();
+	spec_c_test();
 
 	return (EXIT_SUCCESS);
 }

@@ -59,3 +59,23 @@ void spec_percent_test(void)
 	count_01 = _printf("12%%");
 	printf("  -- Actual Count: %d\n", count_01);
 }
+
+/**
+ * spec_c_test - char as arg
+ *
+ * Return: void
+ */
+void spec_c_test(void)
+{
+	int count_00, count_01;
+
+	puts("\n========================================");
+	puts("============   C SPECIFIER   ===========");
+	puts("========================================\n");
+
+	count_00 = printf("1234%c6789", '5');
+	printf("  --  Expect Count: %d\n", count_00);
+
+	count_01 = _printf("1234%c6789", '5');
+	printf("  --  Actual Count: %d\n", count_01);
+}

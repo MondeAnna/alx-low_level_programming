@@ -10,6 +10,7 @@
  */
 int _printf(const char *format, ...)
 {
+	int (*print)(va_list *args);
 	int count = 0;
 	va_list args;
 
@@ -28,8 +29,17 @@ int _printf(const char *format, ...)
 		}
 
 		format++;
-		_putchar('%');
-		count++;
+
+		if (*format == '%')
+		{
+			_putchar(*format++);
+			count++;
+			continue;
+		}
+
+		print = get_print(*format);
+		count += print(&args);
+
 		format++;
 	}
 
