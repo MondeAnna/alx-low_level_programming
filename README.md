@@ -1,4 +1,5 @@
-### [ALX](https://www.alxafrica.com/) System Engineering Plus
+### [ALX](https://www.alxafrica.com/) System Engineering Plus:
+>>>>>>> 450c601 (Sort Algo (Setup): Proj Prep)
 
 Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafrica.com/software-engineering-plus/)** course
 
@@ -57,7 +58,5 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/)_
 * _[Dynamic Libraries](https://medium.com/meatandmachines/shared-dynamic-libraries-in-the-c-programming-language-8c2c03311756)_
 * _[Hash Table Data Structure](https://www.geeksforgeeks.org/hash-table-data-structure/)_
-
-	* _[Integrating Prior Work](/concepts/PRINTF.md)_
 
 <br />
