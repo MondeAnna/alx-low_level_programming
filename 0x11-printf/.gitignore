@@ -1,0 +1,19 @@
+# everything
+*
+
+# except
+!.gitignore
+!*.c
+!*.h
+!*.md
+!*.sh
+!*.so
+!tests
+!0x*
+!compilables/
+!operations/
+!src/
+!*-Makefile
+
+# untracked: special
+main.c
