@@ -58,13 +58,6 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Doubly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/doubly-linked-list/)_
 * _[Dynamic Libraries](https://medium.com/meatandmachines/shared-dynamic-libraries-in-the-c-programming-language-8c2c03311756)_
 * _[Hash Table Data Structure](https://www.geeksforgeeks.org/hash-table-data-structure/)_
-
-<br />
-
-#### Low Level Programming Projects
-
-* _[`Bubble Sort`](0-bubble_sort.c)_
-* _[`Selection Sort`](2-selection_sort.c)_
-* _[`Quick Sort`](3-quick_sort.c)_
+* _[Makefile](https://www.geeksforgeeks.org/how-to-use-make-utility-to-build-c-projects/)_
 
 <br />
