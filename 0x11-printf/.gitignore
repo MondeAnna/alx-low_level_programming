@@ -6,7 +6,10 @@
 !*.c
 !*.h
 !*.md
+!*.so
 !tests
+!0x*
+!src/
 
 # untracked: special
 main.c
