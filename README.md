@@ -50,5 +50,7 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
 * _[Structured Data](https://www.geeksforgeeks.org/typedef-in-c/)_
 * _[Function Pointers](https://www.geeksforgeeks.org/function-pointer-in-c/)_
 * _[Variadic Functions](https://www.geeksforgeeks.org/variadic-functions-in-c/)_
+* _[printf](https://www.geeksforgeeks.org/how-to-write-your-own-printf-in-c/)_
+* _[Singly Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)_
 
 <br />
