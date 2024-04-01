@@ -34,3 +34,11 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
     * The folder of each project, containing a description of the project
 
 <br />
+
+#### Concepts
+
+* _[`C Language Compilation Process`](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)_
+* _[`Data Types`](https://www.geeksforgeeks.org/data-types-in-c/)_ and _[`Control Flow`](https://www.geeksforgeeks.org/decision-making-c-cpp/)_
+* _[`Debugging Concepts`](https://www.geeksforgeeks.org/gdb-step-by-step-introduction/)_
+
+<br />
