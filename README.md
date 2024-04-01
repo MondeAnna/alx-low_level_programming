@@ -34,7 +34,3 @@ Studies carried out in the **[ALX Software Engineering Plus](https://www.alxafri
     * The folder of each project, containing a description of the project
 
 <br />
-
-#### Low Level Programming Concepts
-
-<br />
