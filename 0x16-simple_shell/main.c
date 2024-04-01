@@ -16,10 +16,9 @@ int main(void)
 		exit(EXIT_FAILURE);
 
 	cmd_split(cmd, args);
+	cmd_exec(args);
 
-	_printf("%s\n", cmd);
-
-	free(cmd);
+	free(args);
 
 	return (EXIT_SUCCESS);
 }
