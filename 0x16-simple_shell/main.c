@@ -6,6 +6,7 @@
  */
 int main(void)
 {
+	char **args = NULL;
 	char *cmd;
 
 	prompt();
@@ -14,7 +15,9 @@ int main(void)
 	if (!cmd)
 		exit(EXIT_FAILURE);
 
-	_printf(cmd);
+	cmd_split(cmd, args);
+
+	_printf("%s\n", cmd);
 
 	free(cmd);
 
